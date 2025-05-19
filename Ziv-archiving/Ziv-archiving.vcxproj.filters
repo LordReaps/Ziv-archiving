@@ -20,16 +20,16 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <Text Include="..\..\..\..\Users\boven\Downloads\Telegram Desktop\song10.txt">
+    <Text Include="test1.txt">
       <Filter>Исходные файлы</Filter>
     </Text>
-    <Text Include="..\..\..\..\Users\boven\Downloads\Telegram Desktop\song100.txt">
+    <Text Include="test2.txt">
       <Filter>Исходные файлы</Filter>
     </Text>
-    <Text Include="..\..\..\..\Users\boven\Downloads\Telegram Desktop\song2000.txt">
+    <Text Include="test3.txt">
       <Filter>Исходные файлы</Filter>
     </Text>
-    <Text Include="..\..\..\..\Users\boven\Downloads\Telegram Desktop\song1.txt">
+    <Text Include="test4.txt">
       <Filter>Исходные файлы</Filter>
     </Text>
   </ItemGroup>
